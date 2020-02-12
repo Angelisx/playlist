@@ -6,4 +6,31 @@ body{
     width: 75%;
     margin: 0 auto 20px auto;
     font-size: 18px;
+
 }
+
+.logo{
+    color:bisque;
+    text-transform:uppercase;
+    letter-spacing:5px;
+    font-size:20px;
+}
+
+.heading{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color:black;
+}
+
+.cart{
+    display: flex;
+    justify-content: center;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+.column{
+
+}
+
